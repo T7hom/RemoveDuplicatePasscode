@@ -2,7 +2,7 @@
 import hashlib
 
 #files path
-input_file_path = "int.txt"
+input_file_path = "in.txt"
 output_file_path = "out.txt"
 
 #setup hash
