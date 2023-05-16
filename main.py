@@ -2,8 +2,8 @@
 import hashlib
 
 #files path
-output_file_path = "c:\\Users\\BrodaT\\Desktop\\out.txt"
-input_file_path = "c:\\Users\\BrodaT\\Desktop\\in.txt"
+input_file_path = "in.txt"
+output_file_path = "out.txt"
 
 #setup hash
 completed_lines_hash = set()
